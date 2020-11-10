@@ -28,5 +28,18 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "http://localhost:3001"
+  "proxy": "http://localhost:3001",
+  "description": "<img src=\"https://s3.amazonaws.com/devmountain/readme-logo.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeroG23/node-bcrypt-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeroG23/node-bcrypt-mini/issues"
+  },
+  "homepage": "https://github.com/HeroG23/node-bcrypt-mini#readme"
 }
